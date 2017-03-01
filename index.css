@@ -1,0 +1,71 @@
+body {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.nav {
+  display: inline;
+}
+.nav-2 {
+  display:inline;
+}
+.web-title {
+  width: 24%;
+  margin-top: 20px;
+  margin-left: 112px;
+  margin-right: 112px;
+}
+.nav-title {
+  width: 70px;
+  position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.top-line {
+  margin-top: 20px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+.top-line-img {
+  width: 100%;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.background {
+  margin-top: -12px;
+  width: 100%;
+  z-index: -100;
+}
+
+.under-nav {
+  height: 100px;
+  width: 100%;
+  margin-top: -10px;
+  background-color: lightblue;
+  text-align: center;
+  line-height: 120px;
+}
+
+.under-nav-member {
+  width: 150px;
+  position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+
+
+/*bootstrap row & col*/
+
+.row {
+  margin-right: -15px;
+  margin-left: -15px;
+}
+.col {
+  position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
