@@ -49,14 +49,12 @@ body {
 }
 
 .under-nav-member {
-  width: 175px;
+  width: 200px;
   position: relative;
   min-height: 1px;
-  padding-right: 15px;
-  padding-left: 15px;
+  padding-right: 20px;
+  padding-left: 20px;
 }
-
-
 
 /*bootstrap row & col*/
 
