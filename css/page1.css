@@ -1,6 +1,7 @@
 body {
   margin-left: 0px;
   margin-right: 0px;
+  background-color: #EEEEEE;
 }
 
 .nav {
@@ -12,8 +13,8 @@ body {
 .web-title {
   width: 24%;
   margin-top: 20px;
-  margin-left: 112px;
-  margin-right: 112px;
+  margin-left: 10%;
+  margin-right: 7%;
 }
 .nav-title {
   width: 70px;
@@ -33,7 +34,7 @@ body {
   padding-right: 0px;
 }
 .background {
-  margin-top: -12px;
+  margin-top: -14px;
   width: 100%;
   z-index: -100;
 }
@@ -44,11 +45,11 @@ body {
   margin-top: -10px;
   background-color: lightblue;
   text-align: center;
-  line-height: 120px;
+  line-height: 150px;
 }
 
 .under-nav-member {
-  width: 150px;
+  width: 175px;
   position: relative;
   min-height: 1px;
   padding-right: 15px;
