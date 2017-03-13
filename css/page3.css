@@ -1,0 +1,157 @@
+.page_3_pie {
+  margin-left: 52%;
+  height: 600px;
+  /*background: green;*/
+  width: 40%;
+  z-index: 1;
+  /*
+  margin-left: 45%;
+  background: lightblue;
+  z-index: 100;*/
+}
+
+.page_3_pie_inner {
+  position: relative;
+  width: 100%;
+  height: inherit;
+}
+
+.pie-3-base {
+  position: absolute;
+  z-index: 10;
+  height: 100%;
+}
+
+.pie-3-data {
+  position: absolute;
+  height: 93%;
+  z-index: 11;
+  margin-left: 20px;
+  margin-top: 15px;
+}
+
+.pie-3-data-inside {
+  position: absolute;
+  height: 68%;
+  z-index: 12;
+  margin-left: 82px;
+  margin-top: 95px;
+
+}
+
+.pie-3-middle-data {
+  position: absolute;
+  width: 180px;
+  z-index: 12;
+  margin-top: 216px;
+  margin-left: 216px;
+}
+
+.arrow-3-right {
+  position: absolute;
+  width: 12px;
+  margin-top: 350px;
+  margin-left: 240px;
+  z-index: 12;
+}
+
+.arrow-3-left {
+  position: absolute;
+  width: 12px;
+  margin-top: 350px;
+  margin-left: 355px;
+  z-index: 12;
+}
+
+.pie-3-male {
+  position: absolute;
+  margin-top: 25px;
+  margin-left: 310px;
+  width: 20px;
+  z-index: 12;
+}
+
+.pie-3-female {
+  position: absolute;
+  margin-top: 140px;
+  margin-left: 310px;
+  width: 20px;
+  z-index: 12;
+}
+
+
+/*frame 3-1 tiems start*/
+.pie-3-1-tag-bus {
+  position: absolute;
+  width: 200px;
+  margin-top: 70px;
+  margin-left: 550px;
+  z-index: 13;
+}
+
+.pie-3-1-tag-soc {
+  position: absolute;
+  width: 200px;
+  margin-top: 550px;
+  margin-left: 450px;
+  z-index: 13;
+}
+
+.pie-3-1-tag-lit {
+  position: absolute;
+  width: 200px;
+  margin-top: 600px;
+  margin-left: 80px;
+  z-index: 13;
+}
+
+.pie-3-1-tag-for {
+  position: absolute;
+  width: 200px;
+  margin-top: 480px;
+  margin-left: -140px;
+  z-index: 13;
+}
+
+.pie-3-1-tag-int {
+  position: absolute;
+  width: 200px;
+  margin-top: 350px;
+  margin-left: -200px;
+  z-index: 13;
+}
+
+.pie-3-1-tag-sci {
+  position: absolute;
+  width: 200px;
+  margin-top: 250px;
+  margin-left: -220px;
+  z-index: 13;
+}
+
+.pie-3-1-tag-edu {
+  position: absolute;
+  width: 200px;
+  margin-top: 150px;
+  margin-left: -200px;
+  z-index: 13;
+}
+
+.pie-3-1-tag-cmu {
+  position: absolute;
+  width: 200px;
+  margin-top: 40px;
+  margin-left: -120px;
+  z-index: 13;
+}
+
+.pie-3-1-tag-law {
+  position: absolute;
+  width: 200px;
+  margin-top: -60px;
+  margin-left: 40px;
+  z-index: 13;
+}
+
+
+/*frame 3-1 items end*/
